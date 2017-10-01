@@ -54,10 +54,4 @@ cd CarND-Capstone/ros
 roslaunch launch/site.launch
 ```
 
-### Team
-
-
-### Result
-
-#### Running in Simulator
 
